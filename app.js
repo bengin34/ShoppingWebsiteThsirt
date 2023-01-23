@@ -4,7 +4,7 @@ const cartItemsEl = document.querySelector(".cart-items");
 const subtotalEl = document.querySelector(".subtotal");
 const totalItemsInCartEl = document.querySelector(".total-items-in-cart");
 
-//
+
 function renderProducts() {
   products.forEach((product) => {
     productsEl.innerHTML += `
@@ -60,7 +60,7 @@ function updateCart() {
   // renderSubtotal();
   renderSubtotal();
 
-  //save cards to Local storage
+  //save cart to Local storage
   localStorage.setItem("CART", JSON.stringify(cart));
 }
 
