@@ -1,4 +1,4 @@
-# This is a kind of Here is a kind of Shopping website template. 
+# Here is a kind of Shopping website template. 
 https://bengin34.github.io/ShoppingWebsiteThsirt/
 
 ## I am currently studying JavaScript. 
