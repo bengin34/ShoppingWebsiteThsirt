@@ -1,5 +1,5 @@
 # Here is a kind of Shopping website template. 
-https://bengin34.github.io/ShoppingWebsiteThsirt/
+https://bengin34.github.io/ShoppingWebsiteTshirt/
 
 ## I am currently studying JavaScript. 
 
